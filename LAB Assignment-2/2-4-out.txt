@@ -1,0 +1,13 @@
+Number of points in the table: Enter x0 y0
+Enter x1 y1
+Enter x2 y2
+Enter x3 y3
+Enter x4 y4
+Value for x: f(85) = 5.64691
+Number of points in the table: Enter x0 y0
+Enter x1 y1
+Enter x2 y2
+Enter x3 y3
+Enter x4 y4
+Value for x: f(5) = 13.7645
+Number of points in the table: 

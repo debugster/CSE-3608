@@ -1,0 +1,19 @@
+Number of points in the table: Enter x0 y0
+Enter x1 y1
+Enter x2 y2
+Enter x3 y3
+Enter x4 y4
+del^1y: 7 19 37 61
+del^2y: 12 18 24
+del^3y: 6 6
+del^4y: 0
+Number of points in the table: Enter x0 y0
+Enter x1 y1
+Enter x2 y2
+Enter x3 y3
+Enter x4 y4
+del^1y: 1.001 3.111 1.589 5.719
+del^2y: 2.11 -1.522 4.13
+del^3y: -3.632 5.652
+del^4y: 9.284
+Number of points in the table: 
