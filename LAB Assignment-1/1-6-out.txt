@@ -1,0 +1,8 @@
+Degree of polynomial equation: Co-efficients of the equation: Co-efficients of the derivative equation: Initial guess for x: x: 1.4
+x: 0.546654
+x: 0.5956
+x: 0.593689
+root: 0.594
+Degree of polynomial equation: Co-efficients of the equation: Co-efficients of the derivative equation: Initial guess for x: x: 2.000
+root: 2.000
+Degree of polynomial equation: 

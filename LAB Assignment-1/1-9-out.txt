@@ -1,0 +1,3 @@
+Degree of polynomial: Co-efficients: Root, x: Co-efficients of q(x): 1 -4 3 
+Degree of polynomial: Co-efficients: Root, x: Co-efficients of q(x): 1 -4 3 
+Degree of polynomial: 

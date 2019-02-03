@@ -1,0 +1,3 @@
+Degree of polynomial equation: Enter the co-efficients: Initial guess for x1: Initial guess for x2: root = 1.325
+Degree of polynomial equation: Enter the co-efficients: Initial guess for x1: Initial guess for x2: root = 2.943
+Degree of polynomial equation: 

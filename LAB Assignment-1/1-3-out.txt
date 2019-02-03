@@ -1,0 +1,3 @@
+Degree of polynomial: Enter the co-efficients: Enter value for x: f(2) = 0
+Degree of polynomial: Enter the co-efficients: Enter value for x: f(3) = 34
+Degree of polynomial: 

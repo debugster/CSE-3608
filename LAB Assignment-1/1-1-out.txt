@@ -1,0 +1,7 @@
+Enter a number: 120 has 2 significant digits.
+Enter a number: 3.50 has 3 significant digits.
+Enter a number: 65.0 has 3 significant digits.
+Enter a number: 0.230 has 3 significant digits.
+Enter a number: 0.001234 has 4 significant digits.
+Enter a number: 7.56 has 3 significant digits.
+Enter a number: 
